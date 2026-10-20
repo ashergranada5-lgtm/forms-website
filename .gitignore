@@ -1,0 +1,13 @@
+# Local Python environments and editor settings
+.venv/
+.vscode/
+
+# Unrelated school exercises and local media in the workspace
+BlueJ/
+Java/
+python/
+*.mp3
+
+# Operating-system files
+Thumbs.db
+.DS_Store
